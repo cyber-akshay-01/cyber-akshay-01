@@ -179,11 +179,9 @@ A full-stack BnB-style property listing platform with CRUD functionality for pro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-akshay-01&bg_color=00000000&color=2563eb&line=06b6d4&point=2563eb&area=true&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyber-akshay-01&theme=github_dark" width="95%"/>
 
 </div>
-
----
 
 # 🐍 Contribution Journey
 
