@@ -189,11 +189,9 @@ A full-stack BnB-style property listing platform with CRUD functionality for pro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cyber-akshay-01/cyber-akshay-01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/cyber-akshay-01/cyber-akshay-01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
-
----
 
 # 🌐 Let's Connect
 
